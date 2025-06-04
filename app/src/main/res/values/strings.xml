@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">JavaXml</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="explore">Explore</string>
+    <string name="search">Search</string>
+    <string name="user">User</string>
+    <string name="wallpapers">Wallpapers</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_mail_id">Enter mail id</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_phone_no">Enter phone No.</string>
+    <string name="register">Register</string>
+    <string name="login_to_account">Login to account</string>
+    <string name="log_in">Log in</string>
+    <string name="don_t_have_account_create_account">Don\'t have account? Create Account</string>
+    <string name="already_have_account_log_in">Already have account? Log in</string>
+    <string name="enter_mail">Enter mail</string>
+    <string name="profile">Your Profile</string>
+    <string name="phone">phone</string>
+    <string name="mail">mail id</string>
+    <string name="log_out">Log out</string>
+    <string name="username">"Username  :  "</string>
+    <string name="phone_no">"phone no.  :  "</string>
+    <string name="mail_id">"email id  :  "</string>
+    <string name="searchB">search...</string>
+</resources>
