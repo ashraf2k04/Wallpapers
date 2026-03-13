@@ -21,9 +21,9 @@ A beautiful Android wallpaper application that lets users browse and set high-qu
 
 ---
 
-## 📸 Screenshots
+## 🎥 Video Demo
 
-(Add screenshots after uploading images to the repo)
+https://github.com/user-attachments/assets/5ae55b7b-cdc0-4c71-8cfe-10ad4dd0f980
 
 <!-- Example placeholders -->
 
